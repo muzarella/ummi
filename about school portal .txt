@@ -1,0 +1,26 @@
+This program is for the teachers and the admin of the school
+	The Teacher plattform 
+ this is located at the view folder which entails 
+	+	creating student profile
+	+	editing student profile 
+	+	upload result of student 
+	+	print  result of student 
+	
+	The admin plattform 
+ this is located at the ummi/admin  folder which entails 
+	+	creating teacher profile 
+	+   creating subject for the school 
+	+	
+	+	creating student profile
+	+	editing student profile
+	+	deleting student profile *** but there should be no need to delete profile **
+	+	upload result of student 
+	+	editing result of student 
+	+	print  result of student 
+	
+	This program only allows the teacher to print out all the student result in pdf 
+	and give to them in paper format.
+	but if need be for upgrade then we shall provide an interface where each 
+	student could also print there result out and check blog post about 
+	event in school maybe also pay school fees on the site also 
+	
